@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+    font-family: Tahoma;
+}
+
+div{
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+
+}
+
+p{
+    margin: 10px auto 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+
+/* Estilização da primeira seção*/
+.cabecalho{
+    background-color: #afddfb;
+}
+
+.cabecalho img{
+    width: 150px;
+}
+
+.cabecalho p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+
+}
+
+.cabecalho a{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0px 11px 0px 11px;
+}
+
+/* Estilização da seção banner*/
+.banner{
+    margin-top: 50px;
+    padding-top: 0px;
+}
+
+/* Estilização das spans*/
+span{
+    font-weight: bold;
+    color: #1c81c0;
+}
+
+.destaque{
+    color: yellow;
+}
+
+/* Estilização da seção sobre*/
+h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2{
+    color: #1c81c0;
+    margin-top: 0px;
+    font-weight: normal;
+}
+
+.sobre img, .corretores img{
+    width: 450px;
+}
+
+/* Estilização da seção serviços*/
+.servicos{
+    background-color: #1c81c0;
+}
+
+.servicos h3{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.servicos p{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.servicos ul{
+    margin: 40px auto 40px auto;
+    width: 135px;
+}
+
+.servicos li{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+/* Estilização da secao corretores*/
+.corretores h3{
+    color: #1c81c0;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+/*Estilização da secao contato*/
+.contato{
+    background-color: #1c80c1;
+
+}
+
+.contato h3{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+
+}
+
+.contato .paragrafo{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+.contato ul{
+    margin: 40px auto 40px auto;
+    width: 210px;
+    list-style: none;
+}
+
+.contato li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.contato a{
+    background-color: #ffffff;
+    color: #1c80c1;
+    padding: 2px 5px 2px 5px;
+    border-radius: 5px;
+}
